@@ -2,6 +2,43 @@ Crypto Casino Overview
 This repository includes information and comparisons of two actively used crypto-friendly online casinos. Focus is on bonus systems, wagering terms, and VIP programs.
 
 ---
+## 🟣 Skycrown Casino  
+🔗 [Try Skycrown – Default (No Bonus)](https://skycrownlink.com/o87117aa0)
+
+Multi-currency platform with 6,000+ games, fast payouts, and support for major crypto wallets.
+
+### 💰 Additional bonuses (AU / CA Offers)
+
+#### 🇦🇺 Australia  
+🔗 [Claim 125% up to 1200 AUD](https://skycrownlink.com/oc5b0cbd8)  
+**Promo Code:** `SKYMAX125`  
+- Min Deposit: 30 AUD  
+- Wagering: 40x  
+- Duration: 7 days
+
+#### 🇨🇦 Canada  
+🔗 [Claim 125% up to 1200 CAD](https://skycrownlink.com/o57696589)  
+**Promo Code:** `SKYMAX125`  
+- Min Deposit: 30 CAD  
+- Wagering: 40x  
+- Duration: 7 days
+
+### 💎 VIP Program  
+- Weekly cashback  
+- Personalized reload offers  
+- Slot tournaments with real cash prizes  
+- Crypto deposit boosters
+
+### ⚙️ Wagering Terms  
+- Deposit Bonuses: 40x  
+- Max Bet (bonus active): 5 EUR or equivalent  
+- Withdrawal Limit: Up to €5,000/week  
+- Game Contribution:
+  - Slots: ✅ 100%  
+  - Table Games: ❌ 0%  
+  - Live Casino: ❌ 0%
+
+---
 
 ## 🎰 Katsubet Casino
 🔗 [Join Katsubet](https://katsubet.partners/pd2a32405)
@@ -47,44 +84,6 @@ Max Bet (with active bonus): 0.23 mBTC
 Bonus Expiry: 14 days
 
 [Bonus 50%+150FS](https://katsubet.partners/p57375a91)
-
----
-
-## 🟣 Skycrown Casino  
-🔗 [Try Skycrown – Default (No Bonus)](https://skycrownlink.com/o87117aa0)
-
-Multi-currency platform with 6,000+ games, fast payouts, and support for major crypto wallets.
-
-### 💰 Additional bonuses (AU / CA Offers)
-
-#### 🇦🇺 Australia  
-🔗 [Claim 125% up to 1200 AUD](https://skycrownlink.com/oc5b0cbd8)  
-**Promo Code:** `SKYMAX125`  
-- Min Deposit: 30 AUD  
-- Wagering: 40x  
-- Duration: 7 days
-
-#### 🇨🇦 Canada  
-🔗 [Claim 125% up to 1200 CAD](https://skycrownlink.com/o57696589)  
-**Promo Code:** `SKYMAX125`  
-- Min Deposit: 30 CAD  
-- Wagering: 40x  
-- Duration: 7 days
-
-### 💎 VIP Program  
-- Weekly cashback  
-- Personalized reload offers  
-- Slot tournaments with real cash prizes  
-- Crypto deposit boosters
-
-### ⚙️ Wagering Terms  
-- Deposit Bonuses: 40x  
-- Max Bet (bonus active): 5 EUR or equivalent  
-- Withdrawal Limit: Up to €5,000/week  
-- Game Contribution:
-  - Slots: ✅ 100%  
-  - Table Games: ❌ 0%  
-  - Live Casino: ❌ 0%
 
 ---
 
