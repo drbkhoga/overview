@@ -3,7 +3,7 @@ This repository includes information and comparisons of two actively used crypto
 
 ---
 ## 🟣 Skycrown Casino  
-🔗 [Try Skycrown – Default (No Bonus)](https://skycrownlink.com/o87117aa0)
+🔗 [Try Skycrown](https://skycrownlink.com/o87117aa0)
 
 Multi-currency platform with 6,000+ games, fast payouts, and support for major crypto wallets.
 
